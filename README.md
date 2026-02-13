@@ -1,7 +1,7 @@
 # Welcome to my Github
 
 ## About Me
-My name is Mark and I am currently working as a Monetization Manager and Liveops Designer with Dorado Games on the *Conflict of Nations: World War 3* title. While my professional life has been rooted in game design and monetization, I have a deep love for all things tech and code. In my free time, I work on various projects and explore different languages and tech stacks.
+My name is Mark and I am currently working as a Principal Monetization Manager with Twin Harbour Interactive on the *Supremacy: World War 3* title. While my professional life has been rooted in game design and monetization, I have a deep love for all things tech and code. In my free time, I work on various projects and explore different languages and tech stacks.
 
 ---
 
